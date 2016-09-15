@@ -69,3 +69,6 @@ qr.png
 /*.jpg
 *.ini
 *.un~
+
+*.tmp
+temp/
